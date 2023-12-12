@@ -1,0 +1,638 @@
+ID,State_FIPS,Name,Region_type,State
+101,1,Anniston,MSA,Alabama
+101,1,Oxford,MSA,Alabama
+101,1,Jacksonville,MSA,Alabama
+102,1,Birmingham,CSA,Alabama
+102,1,Hoover,CSA,Alabama
+102,1,Talladega,CSA,Alabama
+103,1,Chattanooga,CSA,Alabama
+103,1,Cleveland,CSA,Alabama
+103,1,Dalton,CSA,Alabama
+104,1,Columbus,CSA,Alabama
+104,1,Auburn,CSA,Alabama
+104,1,Opelika,CSA,Alabama
+105,1,Dothan,CSA,Alabama
+105,1,Enterprise,CSA,Alabama
+105,1,Ozark,CSA,Alabama
+106,1,Florence,MSA,Alabama
+106,1,Muscle Shoals,MSA,Alabama
+107,1,Gadsden,MSA,Alabama
+108,1,Huntsville,CSA,Alabama
+108,1,Decatur,CSA,Alabama
+108,1,Albertville,CSA,Alabama
+109,1,Mobile,CSA,Alabama
+109,1,Daphne,CSA,Alabama
+109,1,Fairhope,CSA,Alabama
+110,1,Montgomery,MSA,Alabama
+111,1,Tuscaloosa,MSA,Alabama
+199,1,Remainder of Alabama,RS,Alabama
+401,4,Flagstaff,MSA,Arizona
+402,4,Las Vegas,CSA,Arizona
+402,4,Henderson,CSA,Arizona
+403,4,Phoenix,MSA,Arizona
+403,4,Mesa,MSA,Arizona
+403,4,Scottsdale,MSA,Arizona
+404,4,Prescott,MSA,Arizona
+405,4,Sierra Vista,MSA,Arizona
+405,4,Douglas,MSA,Arizona
+406,4,Tucson,CSA,Arizona
+406,4,Nogales,CSA,Arizona
+407,4,Yuma,MSA,Arizona
+499,4,Remainder of Arizona,RS,Arizona
+501,5,Fayetteville,MSA,Missouri
+501,5,Springdale,MSA,Missouri
+501,5,Rogers,MSA,Missouri
+502,5,Fort Smith,MSA,Oklahoma
+503,5,Hot Springs,CSA,Arkansas
+503,5,Malvern,CSA,Arkansas
+504,5,Jonesboro,CSA,Arkansas
+504,5,Paragould,CSA,Arkansas
+505,5,Little Rock,CSA,Arkansas
+505,5,North Little Rock,CSA,Arkansas
+506,5,Memphis,CSA,Arkansas
+506,5,Forrest City,CSA,Arkansas
+507,5,Texarkana,MSA,Arkansas
+599,5,Remainder of Arkansas,RS,Arkansas
+601,6,Bakersfield,MSA,California
+602,6,Chico,MSA,California
+603,6,El Centro,MSA,California
+604,6,Fresno,CSA,California
+604,6,Madera,CSA,California
+605,6,Los Angeles,CSA,California
+605,6,Long Beach,CSA,California
+606,6,Modesto,CSA,California
+606,6,Merced,CSA,California
+607,6,Redding,CSA,California
+607,6,Red Bluff,CSA,California
+608,6,Sacramento,CSA,California
+608,6,Roseville,CSA,California
+609,6,Salinas,MSA,California
+610,6,San Diego,MSA,California
+610,6,Carlsbad,MSA,California
+611,6,San Jose,CSA,California
+611,6,San Francisco,CSA,California
+611,6,Oakland,CSA,California
+612,6,San Luis Obispo,MSA,California
+612,6,Paso Robles,MSA,California
+612,6,Arroyo Grande,MSA,California
+613,6,Santa Maria,MSA,California
+613,6,Santa Barbara,MSA,California
+614,6,Visalia,CSA,California
+614,6,Porterville,CSA,California
+614,6,Hanford,CSA,California
+699,6,Remainder of California,RS,California
+801,8,Colorado Springs,MSA,Colorado
+802,8,Denver,CSA,Colorado
+802,8,Aurora,CSA,Colorado
+803,8,Edwards,CSA,Colorado
+803,8,Glenwood Springs,CSA,Colorado
+804,8,Fort Collins,MSA,Colorado
+805,8,Grand Junction,MSA,Colorado
+806,8,Pueblo,CSA,California
+807,8,Steamboat Springs,CSA,Colorado
+807,8,Craig,CSA,Colorado
+899,8,Remainder of Colorado,RS,Colorado
+901,9,Boston,CSA,Connecticut
+901,9,Worcester,CSA,Connecticut
+901,9,Providence,CSA,Connecticut
+902,9,Hartford,MSA,Connecticut
+902,9,West Hartford,MSA,Connecticut
+902,9,East Hartford,MSA,Connecticut
+903,9,New York,CSA,Pennsylvania
+903,9,Newark,CSA,Pennsylvania
+999,9,Remainder of Connecticut,RS,Connecticut
+1001,10,Philadelphia,CSA,Maryland
+1001,10,Reading,CSA,Maryland
+1001,10,Camden,CSA,Maryland
+1002,10,Salisbury,MSA,Delaware
+1101,11,Washington,MSA,West Virginia
+1101,11,Arlington,MSA,West Virginia
+1101,11,Alexandria,MSA,West Virginia
+1201,12,Cape Coral,CSA,Florida
+1201,12,Fort Myers,CSA,Florida
+1201,12,Naples,CSA,Florida
+1202,12,Crestview,MSA,Florida
+1202,12,Fort Walton Beach,MSA,Florida
+1202,12,Destin,MSA,Florida
+1203,12,Gainesville,CSA,Florida
+1203,12,Lake City,CSA,Florida
+1204,12,Homosassa Springs,MSA,Florida
+1205,12,Jacksonville,CSA,Georgia
+1205,12,St. Marys,CSA,Georgia
+1205,12,Palatka,CSA,Georgia
+1206,12,Lakeland,MSA,Florida
+1206,12,Winter Haven,MSA,Florida
+1207,12,Miami,CSA,Florida
+1207,12,Fort Lauderdale,CSA,Florida
+1207,12,Port St. Lucie,CSA,Florida
+1208,12,North Port,CSA,Florida
+1208,12,Sarasota,CSA,Florida
+1209,12,Ocala,MSA,Florida
+1210,12,Orlando,CSA,Florida
+1210,12,Deltona,CSA,Florida
+1210,12,Daytona Beach,CSA,Florida
+1211,12,Palm Bay,MSA,Florida
+1211,12,Melbourne,MSA,Florida
+1211,12,Titusville,MSA,Florida
+1212,12,Panama City,MSA,Florida
+1213,12,Pensacola,MSA,Florida
+1213,12,Ferry Pass,MSA,Florida
+1213,12,Brent,MSA,Florida
+1214,12,Sebring,MSA,Florida
+1215,12,Tallahassee,CSA,Georgia
+1215,12,Bainbridge,CSA,Georgia
+1216,12,Tampa,MSA,Florida
+1216,12,St. Petersburg,MSA,Florida
+1216,12,Clearwater,MSA,Florida
+1299,12,Remainder of Florida,RS,Florida
+1301,13,Albany,MSA,Georgia
+1302,13,Atlanta,CSA,Georgia
+1302,13,,CSA,Georgia
+1302,13,Athens,CSA,Georgia
+1302,13,Clarke County,CSA,Georgia
+1302,13,,CSA,Georgia
+1302,13,Sandy Springs,CSA,Georgia
+1303,13,Augusta,MSA,South Carolina
+1303,13,Richmond County,MSA,South Carolina
+1304,13,Brunswick,MSA,Georgia
+1308,13,Macon,CSA,Georgia
+1308,13,Warner Robins,CSA,Georgia
+1309,13,Rome,CSA,Georgia
+1309,13,Summerville,CSA,Georgia
+1310,13,Savannah,CSA,Georgia
+1310,13,Hinesville,CSA,Georgia
+1310,13,Statesboro,CSA,Georgia
+1312,13,Valdosta,MSA,Georgia
+1399,13,Remainder of Georgia,RS,Georgia
+1601,16,Boise City,CSA,Oregon
+1601,16,Mountain Home,CSA,Oregon
+1601,16,Ontario,CSA,Oregon
+1602,16,Idaho Falls,CSA,Idaho
+1602,16,Rexburg,CSA,Idaho
+1602,16,Blackfoot,CSA,Idaho
+1603,16,Lewiston,MSA,Washington
+1604,16,Logan,MSA,Idaho
+1605,16,Pocatello,MSA,Idaho
+1606,16,Pullman,CSA,Idaho
+1606,16,Moscow,CSA,Idaho
+1607,16,Spokane,CSA,Idaho
+1607,16,Spokane Valley,CSA,Idaho
+1607,16,Coeur d'Alene,CSA,Idaho
+1699,16,Remainder of Idaho,RS,Idaho
+1701,17,Bloomington,CSA,Illinois
+1701,17,Pontiac,CSA,Illinois
+1702,17,Cape Girardeau,CSA,Illinois
+1702,17,Sikeston,CSA,Illinois
+1703,17,Carbondale,MSA,Illinois
+1703,17,Marion,MSA,Illinois
+1704,17,Champaign,MSA,Illinois
+1704,17,Urbana,MSA,Illinois
+1705,17,Chicago,CSA,Wisconsin
+1705,17,Naperville,CSA,Wisconsin
+1706,17,Danville,MSA,Illinois
+1708,17,Decatur,MSA,Illinois
+1709,17,Dixon,CSA,Illinois
+1709,17,Sterling,CSA,Illinois
+1710,17,Paducah,CSA,Illinois
+1710,17,Mayfield,CSA,Illinois
+1711,17,Peoria,CSA,Illinois
+1711,17,Canton,CSA,Illinois
+1712,17,Quincy,CSA,Missouri
+1712,17,Hannibal,CSA,Missouri
+1713,17,Rockford,CSA,Illinois
+1713,17,Freeport,CSA,Illinois
+1713,17,Rochelle,CSA,Illinois
+1714,17,Springfield,CSA,Illinois
+1714,17,Jacksonville,CSA,Illinois
+1714,17,Lincoln,CSA,Illinois
+1715,17,St. Louis,CSA,Illinois
+1715,17,St. Charles,CSA,Illinois
+1715,17,Farmington,CSA,Illinois
+1799,17,Remainder of Illinois,RS,Illinois
+1801,18,Bloomington,CSA,Indiana
+1801,18,Bedford,CSA,Indiana
+1803,18,Cincinnati,CSA,Indiana
+1803,18,Wilmington,CSA,Indiana
+1803,18,Maysville,CSA,Indiana
+1804,18,Evansville,MSA,Kentucky
+1805,18,Fort Wayne,CSA,Indiana
+1805,18,Huntington,CSA,Indiana
+1805,18,Auburn,CSA,Indiana
+1806,18,Indianapolis,CSA,Indiana
+1806,18,Carmel,CSA,Indiana
+1806,18,Muncie,CSA,Indiana
+1807,18,Kokomo,CSA,Indiana
+1807,18,Peru,CSA,Indiana
+1808,18,Lafayette,CSA,Indiana
+1808,18,West Lafayette,CSA,Indiana
+1808,18,Frankfort,CSA,Indiana
+1809,18,Louisville/Jefferson County,CSA,Indiana
+1809,18,,CSA,Indiana
+1809,18,Elizabethtown,CSA,Indiana
+1809,18,,CSA,Indiana
+1809,18,Madison,CSA,Indiana
+1810,18,Richmond,CSA,Indiana
+1810,18,Connersville,CSA,Indiana
+1811,18,South Bend,CSA,Michigan
+1811,18,Elkhart,CSA,Michigan
+1811,18,Mishawaka,CSA,Michigan
+1812,18,Terre Haute,MSA,Indiana
+1899,18,Remainder of Indiana,RS,Indiana
+1901,19,Cedar Rapids,CSA,Iowa
+1901,19,Iowa City,CSA,Iowa
+1902,19,Davenport,CSA,Illinois
+1902,19,Moline,CSA,Illinois
+1903,19,Des Moines,CSA,Iowa
+1903,19,Ames,CSA,Iowa
+1903,19,West Des Moines,CSA,Iowa
+1904,19,Dubuque,MSA,Iowa
+1905,19,Omaha,CSA,Iowa
+1905,19,Council Bluffs,CSA,Iowa
+1905,19,Fremont,CSA,Iowa
+1906,19,Sioux City,CSA,Nebraska
+1906,19,Vermillion,CSA,Nebraska
+1907,19,Waterloo,MSA,Iowa
+1907,19,Cedar Falls,MSA,Iowa
+1999,19,Remainder of Iowa,RS,Iowa
+2001,20,Kansas City,CSA,Kansas
+2001,20,Overland Park,CSA,Kansas
+2001,20,Kansas City,CSA,Kansas
+2002,20,Manhattan,CSA,Kansas
+2002,20,Junction City,CSA,Kansas
+2003,20,Topeka,MSA,Kansas
+2004,20,Wichita,CSA,Kansas
+2004,20,Arkansas City,CSA,Kansas
+2004,20,Winfield,CSA,Kansas
+2099,20,Remainder of Kansas,RS,Kansas
+2101,21,Bowling Green,CSA,Kentucky
+2101,21,Glasgow,CSA,Kentucky
+2102,21,Charleston,CSA,Kentucky
+2102,21,Huntington,CSA,Kentucky
+2102,21,Ashland,CSA,Kentucky
+2104,21,Clarksville,MSA,Kentucky
+2106,21,Lexington,CSA,Kentucky
+2106,21,Fayette,CSA,Kentucky
+2106,21,,CSA,Kentucky
+2106,21,Richmond,CSA,Kentucky
+2106,21,,CSA,Kentucky
+2106,21,Frankfort,CSA,Kentucky
+2108,21,Martin,CSA,Kentucky
+2108,21,Union City,CSA,Kentucky
+2109,21,Owensboro,MSA,Kentucky
+2199,21,Remainder of Kentucky,RS,Kentucky
+2201,22,Alexandria,MSA,Louisiana
+2202,22,Baton Rouge,MSA,Louisiana
+2203,22,DeRidder,CSA,Louisiana
+2203,22,Fort Polk South,CSA,Louisiana
+2204,22,Houma,MSA,Louisiana
+2204,22,Thibodaux,MSA,Louisiana
+2205,22,Lafayette,CSA,Louisiana
+2205,22,Opelousas,CSA,Louisiana
+2205,22,Morgan City,CSA,Louisiana
+2206,22,Lake Charles,MSA,Louisiana
+2207,22,Monroe,CSA,Louisiana
+2207,22,Ruston,CSA,Louisiana
+2207,22,Bastrop,CSA,Louisiana
+2208,22,New Orleans,CSA,Mississippi
+2208,22,Metairie,CSA,Mississippi
+2208,22,Hammond,CSA,Mississippi
+2209,22,Shreveport,MSA,Louisiana
+2209,22,Bossier City,MSA,Louisiana
+2299,22,Remainder of Louisiana,RS,Louisiana
+2301,23,Bangor,MSA,Maine
+2302,23,Portland,CSA,Maine
+2302,23,Lewiston,CSA,Maine
+2302,23,South Portland,CSA,Maine
+2399,23,Remainder of Maine,RS,Maine
+2401,24,Baltimore,MSA,Maryland
+2401,24,Columbia,MSA,Maryland
+2401,24,Towson,MSA,Maryland
+2402,24,Cumberland,MSA,West Virginia
+2499,24,Remainder of Maryland,RS,Maryland
+2502,25,Pittsfield,MSA,Massachusetts
+2503,25,Springfield,CSA,Massachusetts
+2503,25,Greenfield Town,CSA,Massachusetts
+2599,25,Remainder of Massachusetts,RS,Massachusetts
+2601,26,Detroit,CSA,Michigan
+2601,26,Warren,CSA,Michigan
+2601,26,Ann Arbor,CSA,Michigan
+2602,26,Grand Rapids,CSA,Michigan
+2602,26,Wyoming,CSA,Michigan
+2602,26,Muskegon,CSA,Michigan
+2603,26,Jackson,MSA,Michigan
+2604,26,Kalamazoo,CSA,Michigan
+2604,26,Battle Creek,CSA,Michigan
+2604,26,Portage,CSA,Michigan
+2605,26,Lansing,CSA,Michigan
+2605,26,East Lansing,CSA,Michigan
+2605,26,Owosso,CSA,Michigan
+2606,26,Mount Pleasant,CSA,Michigan
+2606,26,Alma,CSA,Michigan
+2607,26,Saginaw,CSA,Michigan
+2607,26,Midland,CSA,Michigan
+2607,26,Bay City,CSA,Michigan
+2699,26,Remainder of Michigan,RS,Michigan
+2701,27,Duluth,MSA,Wisconsin
+2702,27,Fargo,CSA,Minnesota
+2702,27,Wahpeton,CSA,Minnesota
+2703,27,Grand Forks,MSA,Minnesota
+2704,27,La Crosse,MSA,Minnesota
+2704,27,Onalaska,MSA,Minnesota
+2705,27,Mankato,CSA,Minnesota
+2705,27,New Ulm,CSA,Minnesota
+2705,27,North Mankato,CSA,Minnesota
+2706,27,Minneapolis,CSA,Wisconsin
+2706,27,St. Paul,CSA,Wisconsin
+2707,27,Rochester,CSA,Minnesota
+2707,27,Austin,CSA,Minnesota
+2799,27,Remainder of Minnesota,RS,Minnesota
+2801,28,Cleveland,CSA,Mississippi
+2801,28,Indianola,CSA,Mississippi
+2802,28,Gulfport,MSA,Mississippi
+2802,28,Biloxi,MSA,Mississippi
+2802,28,Pascagoula,MSA,Mississippi
+2803,28,Hattiesburg,MSA,Mississippi
+2804,28,Jackson,CSA,Mississippi
+2804,28,Vicksburg,CSA,Mississippi
+2804,28,Brookhaven,CSA,Mississippi
+2899,28,Remainder of Mississippi,RS,Mississippi
+2902,29,Columbia,CSA,Missouri
+2902,29,Moberly,CSA,Missouri
+2902,29,Mexico,CSA,Missouri
+2904,29,Jefferson City,MSA,Missouri
+2905,29,Joplin,CSA,Oklahoma
+2905,29,Miami,CSA,Oklahoma
+2908,29,Springfield,CSA,Missouri
+2908,29,Branson,CSA,Missouri
+2999,29,Remainder of Missouri,RS,Missouri
+3001,30,Billings,MSA,Montana
+3002,30,Great Falls,MSA,Montana
+3003,30,Missoula,MSA,Montana
+3099,30,Remainder of Montana,RS,Montana
+3101,31,Grand Island,MSA,Nebraska
+3102,31,Lincoln,CSA,Nebraska
+3102,31,Beatrice,CSA,Nebraska
+3199,31,Remainder of Nebraska,RS,Nebraska
+3202,32,Reno,CSA,Nevada
+3202,32,Carson City,CSA,Nevada
+3202,32,Fernley,CSA,Nevada
+3299,32,Remainder of Nevada,RS,Nevada
+3399,33,Remainder of New Hampshire,RS,New Hampshire
+3501,35,Albuquerque,CSA,New Mexico
+3501,35,Santa Fe,CSA,New Mexico
+3501,35,Las Vegas,CSA,New Mexico
+3502,35,Clovis,CSA,New Mexico
+3502,35,Portales,CSA,New Mexico
+3503,35,El Paso,CSA,New Mexico
+3503,35,Las Cruces,CSA,New Mexico
+3504,35,Farmington,MSA,New Mexico
+3599,35,Remainder of New Mexico,New,New Mexico
+3601,36,Albany,CSA,New York
+3601,36,Schenectady,CSA,New York
+3602,36,Binghamton,MSA,New York
+3603,36,Buffalo,CSA,New York
+3603,36,Cheektowaga,CSA,New York
+3604,36,Elmira,CSA,New York
+3604,36,Corning,CSA,New York
+3605,36,Ithaca,CSA,New York
+3605,36,Cortland,CSA,New York
+3607,36,Rochester,CSA,New York
+3607,36,Batavia,CSA,New York
+3607,36,Seneca Falls,CSA,New York
+3608,36,Syracuse,CSA,New York
+3608,36,Auburn,CSA,New York
+3609,36,Utica,MSA,New York
+3609,36,Rome,MSA,New York
+3610,36,Watertown,MSA,New York
+3610,36,Fort Drum,MSA,New York
+3699,36,Remainder of New York,New,New York
+3701,37,Asheville,CSA,North Carolina
+3701,37,Brevard,CSA,North Carolina
+3703,37,Fayetteville,CSA,North Carolina
+3703,37,Lumberton,CSA,North Carolina
+3703,37,Laurinburg,CSA,North Carolina
+3704,37,Goldsboro,MSA,North Carolina
+3705,37,Greensboro,CSA,North Carolina
+3705,37,,CSA,North Carolina
+3705,37,Winston,CSA,North Carolina
+3705,37,Salem,CSA,North Carolina
+3705,37,,CSA,North Carolina
+3705,37,High Point,CSA,North Carolina
+3706,37,Greenville,CSA,North Carolina
+3706,37,Washington,CSA,North Carolina
+3707,37,Hickory,CSA,North Carolina
+3707,37,Lenoir,CSA,North Carolina
+3708,37,Jacksonville,MSA,North Carolina
+3709,37,Myrtle Beach,CSA,North Carolina
+3709,37,Conway,CSA,North Carolina
+3710,37,New Bern,CSA,North Carolina
+3710,37,Morehead City,CSA,North Carolina
+3711,37,Raleigh,CSA,North Carolina
+3711,37,Durham,CSA,North Carolina
+3711,37,Chapel Hill,CSA,North Carolina
+3712,37,Rocky Mount,CSA,North Carolina
+3712,37,Wilson,CSA,North Carolina
+3712,37,Roanoke Rapids,CSA,North Carolina
+3713,37,Virginia Beach,CSA,North Carolina
+3713,37,Norfolk,CSA,North Carolina
+3714,37,Wilmington,MSA,North Carolina
+3799,37,Remainder of North Carolina,North,North Carolina
+3801,38,Bismarck,MSA,North Dakota
+3899,38,Remainder of North Dakota,North,North Dakota
+3903,39,Cleveland,CSA,Ohio
+3903,39,Akron,CSA,Ohio
+3903,39,Canton,CSA,Ohio
+3904,39,Columbus,CSA,Ohio
+3904,39,Marion,CSA,Ohio
+3904,39,Zanesville,CSA,Ohio
+3905,39,Dayton,CSA,Ohio
+3905,39,Springfield,CSA,Ohio
+3905,39,Sidney,CSA,Ohio
+3906,39,Findlay,CSA,Ohio
+3906,39,Tiffin,CSA,Ohio
+3907,39,Lima,CSA,Ohio
+3907,39,Van Wert,CSA,Ohio
+3907,39,Celina,CSA,Ohio
+3908,39,Mansfield,CSA,Ohio
+3908,39,Ashland,CSA,Ohio
+3908,39,Bucyrus,CSA,Ohio
+3909,39,Parkersburg,CSA,Ohio
+3909,39,Marietta,CSA,Ohio
+3909,39,Vienna,CSA,Ohio
+3911,39,Toledo,CSA,Ohio
+3911,39,Port Clinton,CSA,Ohio
+3912,39,Wheeling,MSA,Ohio
+3913,39,Youngstown,CSA,Pennsylvania
+3913,39,Warren,CSA,Pennsylvania
+3999,39,Remainder of Ohio,RS,Ohio
+4001,40,Dallas,CSA,Oklahoma
+4001,40,Fort Worth,CSA,Oklahoma
+4004,40,Lawton,MSA,Oklahoma
+4005,40,Oklahoma City,CSA,Oklahoma
+4005,40,Shawnee,CSA,Oklahoma
+4006,40,Tulsa,CSA,Oklahoma
+4006,40,Muskogee,CSA,Oklahoma
+4006,40,Bartlesville,CSA,Oklahoma
+4099,40,Remainder of Oklahoma,RS,Oklahoma
+4101,41,Bend,CSA,Oregon
+4101,41,Redmond,CSA,Oregon
+4101,41,Prineville,CSA,Oregon
+4103,41,Eugene,MSA,Oregon
+4104,41,Medford,CSA,Oregon
+4104,41,Grants Pass,CSA,Oregon
+4105,41,Portland,CSA,Washington
+4105,41,Vancouver,CSA,Washington
+4105,41,Salem,CSA,Washington
+4199,41,Remainder of Oregon,RS,Oregon
+4201,42,Altoona,MSA,Pennsylvania
+4202,42,Bloomsburg,CSA,Pennsylvania
+4202,42,Berwick,CSA,Pennsylvania
+4202,42,Sunbury,CSA,Pennsylvania
+4203,42,Erie,CSA,Pennsylvania
+4203,42,Meadville,CSA,Pennsylvania
+4204,42,Harrisburg,CSA,Pennsylvania
+4204,42,York,CSA,Pennsylvania
+4204,42,Lebanon,CSA,Pennsylvania
+4205,42,Johnstown,CSA,Pennsylvania
+4205,42,Somerset,CSA,Pennsylvania
+4206,42,Lancaster,MSA,Pennsylvania
+4210,42,Scranton,MSA,Pennsylvania
+4210,42,,MSA,Pennsylvania
+4210,42,Wilkes,MSA,Pennsylvania
+4210,42,Barre,MSA,Pennsylvania
+4210,42,,MSA,Pennsylvania
+4210,42,Hazleton,MSA,Pennsylvania
+4211,42,State College,CSA,Pennsylvania
+4211,42,DuBois,CSA,Pennsylvania
+4212,42,Williamsport,CSA,Pennsylvania
+4212,42,Lock Haven,CSA,Pennsylvania
+4299,42,Remainder of Pennsylvania,RS,Pennsylvania
+4502,45,Charleston,MSA,South Carolina
+4502,45,North Charleston,MSA,South Carolina
+4503,45,Charlotte,CSA,South Carolina
+4503,45,Concord,CSA,South Carolina
+4504,45,Columbia,CSA,South Carolina
+4504,45,Orangeburg,CSA,South Carolina
+4504,45,Newberry,CSA,South Carolina
+4505,45,Florence,MSA,South Carolina
+4506,45,Greenville,CSA,South Carolina
+4506,45,Spartanburg,CSA,South Carolina
+4506,45,Anderson,CSA,South Carolina
+4507,45,Hilton Head Island,MSA,South Carolina
+4507,45,Bluffton,MSA,South Carolina
+4507,45,Beaufort,MSA,South Carolina
+4509,45,Sumter,MSA,South Carolina
+4599,45,Remainder of South Carolina,South,South Carolina
+4601,46,Rapid City,CSA,South Dakota
+4601,46,Spearfish,CSA,South Dakota
+4603,46,Sioux Falls,MSA,South Dakota
+4699,46,Remainder of South Dakota,South,South Dakota
+4703,47,Jackson,MSA,Tennessee
+4704,47,Johnson City,CSA,Virginia
+4704,47,Kingsport,CSA,Virginia
+4704,47,Bristol,CSA,Virginia
+4705,47,Knoxville,CSA,Tennessee
+4705,47,Morristown,CSA,Tennessee
+4705,47,Sevierville,CSA,Tennessee
+4708,47,Nashville,CSA,Tennessee
+4708,47,Davidson,CSA,Tennessee
+4708,47,,CSA,Tennessee
+4708,47,Murfreesboro,CSA,Tennessee
+4799,47,Remainder of Tennessee,RS,Tennessee
+4801,48,Abilene,MSA,Texas
+4802,48,Amarillo,CSA,Texas
+4802,48,Borger,CSA,Texas
+4803,48,Austin,MSA,Texas
+4803,48,Round Rock,MSA,Texas
+4804,48,Beaumont,MSA,Texas
+4804,48,Port Arthur,MSA,Texas
+4805,48,Brownsville,CSA,Texas
+4805,48,Harlingen,CSA,Texas
+4805,48,Raymondville,CSA,Texas
+4806,48,College Station,MSA,Texas
+4806,48,Bryan,MSA,Texas
+4807,48,Corpus Christi,CSA,Texas
+4807,48,Kingsville,CSA,Texas
+4807,48,Alice,CSA,Texas
+4810,48,Houston,CSA,Texas
+4810,48,The Woodlands,CSA,Texas
+4811,48,Killeen,MSA,Texas
+4811,48,Temple,MSA,Texas
+4812,48,Laredo,MSA,Texas
+4813,48,Longview,CSA,Texas
+4813,48,Marshall,CSA,Texas
+4814,48,Lubbock,CSA,Texas
+4814,48,Levelland,CSA,Texas
+4815,48,McAllen,CSA,Texas
+4815,48,Edinburg,CSA,Texas
+4816,48,Midland,CSA,Texas
+4816,48,Odessa,CSA,Texas
+4817,48,San Angelo,MSA,Texas
+4818,48,San Antonio,MSA,Texas
+4818,48,New Braunfels,MSA,Texas
+4820,48,Tyler,CSA,Texas
+4820,48,Jacksonville,CSA,Texas
+4821,48,Victoria,CSA,Texas
+4821,48,Port Lavaca,CSA,Texas
+4822,48,Waco,MSA,Texas
+4823,48,Wichita Falls,MSA,Texas
+4899,48,Remainder of Texas,RS,Texas
+4902,49,Salt Lake City,CSA,Utah
+4902,49,Provo,CSA,Utah
+4902,49,Orem,CSA,Utah
+4903,49,St. George,MSA,Utah
+4999,49,Remainder of Utah,RS,Utah
+5001,50,Burlington,MSA,Vermont
+5001,50,South Burlington,MSA,Vermont
+5099,50,Remainder of Vermont,RS,Vermont
+5101,51,Blacksburg,MSA,Virginia
+5101,51,Christiansburg,MSA,Virginia
+5101,51,Radford,MSA,Virginia
+5102,51,Charlottesville,MSA,Virginia
+5103,51,Harrisonburg,CSA,Virginia
+5103,51,Staunton,CSA,Virginia
+5103,51,Waynesboro,CSA,Virginia
+5105,51,Lynchburg,MSA,Virginia
+5106,51,Richmond,MSA,Virginia
+5107,51,Roanoke,MSA,Virginia
+5199,51,Remainder of Virginia,RS,Virginia
+5301,53,Bellingham,MSA,Washington
+5302,53,Kennewick,MSA,Washington
+5302,53,Richland,MSA,Washington
+5304,53,Moses Lake,CSA,Washington
+5304,53,Othello,CSA,Washington
+5307,53,Seattle,CSA,Washington
+5307,53,Tacoma,CSA,Washington
+5309,53,Walla Walla,MSA,Washington
+5310,53,Wenatchee,MSA,Washington
+5311,53,Yakima,MSA,Washington
+5399,53,Remainder of Washington,RS,Washington
+5401,54,Beckley,MSA,West Virginia
+5404,54,Morgantown,CSA,West Virginia
+5404,54,Fairmont,CSA,West Virginia
+5406,54,Pittsburgh,CSA,West Virginia
+5406,54,New Castle,CSA,West Virginia
+5406,54,Weirton,CSA,West Virginia
+5499,54,Remainder of West Virginia,West,West Virginia
+5501,55,Appleton,CSA,Wisconsin
+5501,55,Oshkosh,CSA,Wisconsin
+5501,55,Neenah,CSA,Wisconsin
+5504,55,Eau Claire,CSA,Wisconsin
+5504,55,Menomonie,CSA,Wisconsin
+5505,55,Fond du Lac,MSA,Wisconsin
+5506,55,Green Bay,CSA,Wisconsin
+5506,55,Shawano,CSA,Wisconsin
+5508,55,Madison,CSA,Wisconsin
+5508,55,Janesville,CSA,Wisconsin
+5508,55,Beloit,CSA,Wisconsin
+5509,55,Milwaukee,CSA,Wisconsin
+5509,55,Racine,CSA,Wisconsin
+5509,55,Waukesha,CSA,Wisconsin
+5511,55,Sheboygan,MSA,Wisconsin
+5512,55,Wausau,CSA,Wisconsin
+5512,55,Stevens Point,CSA,Wisconsin
+5512,55,Wisconsin Rapids,CSA,Wisconsin
+5599,55,Remainder of Wisconsin,RS,Wisconsin
+5601,56,Casper,MSA,Wyoming
+5602,56,Cheyenne,MSA,Wyoming
+5699,56,Remainder of Wyoming,RS,Wyoming
